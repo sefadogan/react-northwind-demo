@@ -36,5 +36,5 @@ Go to file directory which name is "api".
 json-server --watch db.json
 ```
 
-<img src="readme-images/summary-ss.jpg">
+<img src="readme-images/summary-ss.JPG">
 
