@@ -1,5 +1,3 @@
-# react-northwind-demo
-
 # React Northwind Demo
 
 I created this repo for understanding the React syntax.
@@ -42,7 +40,7 @@ Then we can start the project. (NPM will ask you "Would you like to run the app 
 npm start
 ```
 
-### Screenshoot
+### Screenshoots
 
 <img src="readme-images/summary-ss.JPG">
 
